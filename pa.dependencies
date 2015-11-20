@@ -34,6 +34,11 @@
         "repository":  "NamelessRom/android_bootable_recovery-twrp",
         "target_path": "bootable/recovery-twrp",
         "revision":    "n-2.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "AOSPA-L/android_hardware_sony_timekeep",
+        "target_path": "hardware/sony/timekeep",
+        "revision":    "master"
     }
-
 ]
